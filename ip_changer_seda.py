@@ -1,6 +1,7 @@
 # Kod ile Kullanılabilir Seda Elektronik Ürünleri: 
 # https://sedaelektronik.com.tr/ip-button-16.html
 # https://sedaelektronik.com.tr/ip-button-4.html
+# https://sedaelektronik.com.tr/internetten-role-cihaz-kontrol.html
 #!/usr/bin/env python
 import os
 # Dosyanın bulunduğu klasörü bulur
