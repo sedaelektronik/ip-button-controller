@@ -4,5 +4,10 @@
 # It offers the possibility of triggering 16 different Ethernet relay cards in different regions from a single point with manual-analog input.
 # Adding the following lines to the crontab -e file via the terminal will start reading Raspberry Pi serial inputs every time the device boots up: `
 #  @reboot python /home/pi/Desktop/Program/role_controller.py
+#
+# # Seda Electronic Products Usable with Code:
+# https://sedaelektronik.com.tr/ip-button-16.html
+# https://sedaelektronik.com.tr/ip-button-4.html
+# https://sedaelektronik.com.tr/internetten-role-cihaz-kontrol.html
 
 `
